@@ -37,9 +37,9 @@
     },
     "BiocGenerics": {
       "Package": "BiocGenerics",
-      "Version": "0.30.0",
+      "Version": "0.32.0",
       "Source": "Bioconductor",
-      "Hash": "b34ea3cdd5fcd4072d21b5784232aa3c"
+      "Hash": "b2dabf833cc349c2cd9cba38de7af085"
     },
     "BiocManager": {
       "Package": "BiocManager",
